@@ -1,6 +1,6 @@
 variables:
   ConnectedServiceName: 'Azure Primary'
-  WebAppName: 'Flask Pipelines'
+  WebAppName: 'python-sample-vscode-flask-tutorial'
 
 trigger:
 - master
