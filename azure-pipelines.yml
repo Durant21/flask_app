@@ -1,6 +1,6 @@
 variables:
   ConnectedServiceName: 'Azure Primary'
-  WebAppName: 'respec-pipelines'
+  WebAppName: 'respec-flaskpipelines'
 
 trigger:
 - master
