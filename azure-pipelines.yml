@@ -1,6 +1,6 @@
 variables:
   ConnectedServiceName: 'Azure Primary'
-  WebAppName: 'python-sample-vscode-flask-tutorial'
+  WebAppName: 'respec-pipelines'
 
 trigger:
 - master
